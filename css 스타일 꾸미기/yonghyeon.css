@@ -1,16 +1,59 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:100,200,300,400,500,600,700,800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR&display=swap');
+*{
+    font-family: 'Montserrat';
+}
 footer{
     text-align: center;
-    background-color: black;
-    color:white;
+    background-color: #1e1e1e;
+    padding: 20px;
+    font-size: 20px;
+    color: #919191;
 }
 p{
     font-size: 30;
 }
-
-.big-font{
-    font-size: 45;
+body,h1,h2{
+    padding: 0px;
+    margin: 0px;
 }
 
-.small-font{
-    font-size: 15;
+h2{
+    text-align: left;
+    font-size: 20px;
+    font-weight: lighter;
+    color: #282828;
+    border-bottom: 2px solid #ebebeb;
+    margin-bottom: 15px;
+    padding-bottom: 5px;
+}
+h1{
+    font-size: 50px;
+    font-family: 'Noto Sans KR', sans-serif;
+    font-weight: 600;
+    font-style: italic;
+}
+.name{
+    font-size: 17px;
+    font-weight: bold;
+    color: #686868;
+}
+
+div{
+    border: 1px solid gray;
+    margin-bottom: 5px;
+    margin-top: 5px;
+}
+.mainbox{
+    border: 1px solid #ebebeb;
+    width: 660px;
+    text-align: right;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px;
+    margin-bottom: 30px;
+    box-shadow: 0 1px 20px 0 rgba(0, 0, 0, 0.1);
+}
+.about-me-text{
+    text-align: left;
 }
