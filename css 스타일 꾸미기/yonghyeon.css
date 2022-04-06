@@ -1,0 +1,16 @@
+footer{
+    text-align: center;
+    background-color: black;
+    color:white;
+}
+p{
+    font-size: 30;
+}
+
+.big-font{
+    font-size: 45;
+}
+
+.small-font{
+    font-size: 15;
+}
