@@ -8,8 +8,10 @@ footer{
     text-align: center;
     background-color: #1e1e1e;
     padding: 20px;
-    font-size: 20px;
+    font-size: 15px;
     color: #919191;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 
