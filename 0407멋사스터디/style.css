@@ -1,0 +1,16 @@
+.container{
+    display: flex;
+}
+
+.item1{
+    width: 600px;
+    background-color: aqua;
+}
+
+.item2{
+    background-color: aquamarine;
+}
+
+.item3{
+    background-color: blueviolet;
+}
