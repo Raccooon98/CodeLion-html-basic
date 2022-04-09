@@ -135,12 +135,12 @@ input{
 }
 
 .left-big-box{
-    width: 70%;
+    width: 65%;
     display: flex;
     flex-direction: column;
 }
 .right-big-box{
-    width: 30%;
+    width: 35%;
 }
 
 .main-logo{
@@ -173,11 +173,11 @@ input{
 }
 
 .bootcamp-button{
-    width: 30%;
-    height: 30%;
+    width: 30.7%;
     background-color: antiquewhite;
     height: auto;
-    margin: 10px;
+    margin-top: 5px;
+    margin-bottom: 5px;
     font-weight: bold;
 }
 
@@ -270,3 +270,145 @@ input{
     height: 200px;
 }
 
+.login-box{
+    width: 100%;
+    height: 20%;
+    background-color: rgba(236, 236, 236, 0.493);
+    display: flex;
+    flex-direction: column;
+}
+
+
+
+.Input-box{
+    height: 70%;
+    width: 100%;
+    display: flex;
+}
+.Input-box-left{
+    width: 70%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.id-box{
+    height: 40%;
+    width: 92%;
+    display: flex;
+    align-items: center;
+    background-color: rgb(255, 226, 189);
+}
+.ID{
+    font-weight: bold;
+    margin-left: 10px;
+    margin-right: 25px;
+    font-size: 20px;
+}
+
+.ID-input{
+    margin: 3px;
+    width: 60%;
+    height: 70%;
+    border: 0;
+}
+.pw-box{
+    height: 40%;
+    width: 92%;
+    display: flex;
+    align-items: center;
+    background-color: rgb(255, 226, 189);
+}
+.PW{
+    font-weight: bold;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 20px;
+}
+
+.PW-input{
+    margin: 3px;
+    width: 60%;
+    height: 70%;
+    border: 0;
+}
+
+.Input-box-right{
+    width: 30%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.login-button{
+    height: 80%;
+    width: 80%;
+    border-radius: 10%;
+    color: white;
+    background-color: #ff771d;
+}
+
+.login-button:hover{
+    background-color: #FFB34D;
+}
+
+.signup{
+    width: 100%;
+    height: 30%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.signup-button{
+    width: 98%;
+    color: white;
+    font-weight: bold;
+    height: 90%;
+    margin: 5px;
+    background-color: #ff771d;
+}
+.signup-button:hover{
+    background-color: #FFB34D;
+}
+
+.right-banner-img{
+    width: 100%;
+    height: 30%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.right-banner{
+    width: 80%;
+    height: 80%;
+}
+
+.logo-box{
+    width: 100%;
+    height: 45.2%;
+}
+.logo-box1{
+    width: 100%;
+    height: 50%;
+    display: flex;
+}
+.logo-box2{
+    width: 100%;
+    height: 50%;
+    display: flex;
+}
+.로고후보{
+    width: 50%;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.로고후보그림{
+    width: 150px;
+    height: 150px;
+}
