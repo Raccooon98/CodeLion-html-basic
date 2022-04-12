@@ -38,7 +38,7 @@
 }
 img{
     width: 55%;
-    height: 70%
+    height: 75%
 }
 .topmenu{
     width: 80%;
@@ -78,7 +78,7 @@ img{
 }
 button{
     width: 99%;
-    height: 99%;
+    height: 103%;
     font-size: 25px;
     text-align: center;
     background-color: orange;
@@ -362,7 +362,7 @@ input{
     justify-content: center;
 }
 .signup-button{
-    width: 98%;
+    width: 95%;
     color: white;
     font-weight: bold;
     height: 90%;
