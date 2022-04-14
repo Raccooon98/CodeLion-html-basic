@@ -5,6 +5,7 @@
 }
 
 footer{
+    width: 660px;
     text-align: center;
     background-color: #1e1e1e;
     padding: 20px;
@@ -67,7 +68,7 @@ section{
 
 .about-me-text{
     text-align: left;
-    font-size: 14px;
+    font-size: 16px;
     line-height: 16px;
 }
 
